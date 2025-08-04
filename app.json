@@ -39,7 +39,7 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_STICKER": {
       "description": "Make it true if you want automatic sticker.",
@@ -64,22 +64,23 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY PK-XMD 💜🤎🖤🤍*"
+      "value": "*SEEN YOUR STATUS BY VOST-BOT
+      💜🤎🖤🤍*"
     },
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "pkdriller"
+      "value": "Stephen"
     },
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254794146821"
+      "value": "254762414548"
     },
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "PK-XMD"
+      "value": "Vosty"
     },
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
