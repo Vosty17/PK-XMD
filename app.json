@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "pk~DxZBVLaa#GVeMYofUUcoZaU8uoRqMWBzDesVKO3dPhmkWqzBgozw"
     },
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
